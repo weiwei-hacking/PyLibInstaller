@@ -20,6 +20,6 @@ PyLibInstaller is a batch script auto using pipreqs generate requirements.txt pi
 
 Python Library Installer needs **Windows 10+ & Python**.
 
-1. Download `Installer-<version>.bat` from [Releases](https://github.com/weiwei-hacking/PyLibInstaller/releases/latest)
-2. Move `Installer-<version>.bat` to your python project folder
-3. Run it
+1. Download `Installer-<version>.bat` from [Releases](https://github.com/weiwei-hacking/PyLibInstaller/releases/latest).
+2. Move `Installer-<version>.bat` to your python project folder.
+3. Run it.
