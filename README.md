@@ -14,7 +14,7 @@
 
 ## What is PyLibInstaller
 
-PyLibInstaller is a batch script auto using pipreqs generate requirements.txt pipreqs and auto install requirements.txt all thing
+PyLibInstaller is a batch script auto using pipreqs generate requirements.txt pipreqs and auto install requirements.txt all thing.
 
 ## Download
 
